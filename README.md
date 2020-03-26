@@ -1,9 +1,9 @@
 # MoralesMurilloZuluaga_DSII_2019_2
 
 ## Aprendiendo a manejar Github
-```
-[Alkasfot](https://santiagozh1998.github.io/MoralesMurilloZuluaga_DSII_2019_2/index.html)
-```
+
+https://santiagozh1998.github.io/MoralesMurilloZuluaga_DSII_2019_2/index.html
+
 
 ### Integrantes
 - Santiago Zuluaga Hernandez - 1728003
