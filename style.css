@@ -1,6 +1,9 @@
 body{
     color: white;
-    margin-bottom: 40px;
+}
+
+.body{
+    padding-bottom: 40px;
 }
 
 .title{
