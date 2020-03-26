@@ -2,7 +2,7 @@
 
 ## Aprendiendo a manejar Github
 ```
-https://santiagozh1998.github.io/MoralesMurilloZuluaga_DSII_2019_2/index.html
+[Alkasfot](https://santiagozh1998.github.io/MoralesMurilloZuluaga_DSII_2019_2/index.html)
 ```
 
 ### Integrantes
