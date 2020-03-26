@@ -1,0 +1,28 @@
+body{
+    color: white;
+    margin-bottom: 40px;
+}
+
+.title{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 60px;
+}
+
+.title-a{
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.card{
+    margin-top: 20px;
+    color: black
+}
+
+.card h3{
+    font-size: 20px;
+}
+
+.card p{
+    margin-top: 20px;
+}
